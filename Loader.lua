@@ -20,7 +20,7 @@ end
 local Loader = {}
 
 Loader.Repositories = {["brolyglazer"] = "https://raw.githubusercontent.com/brolyglazer/whats9plus10twentyone/main/",
-	["FlamesW"]   = "https://raw.githubusercontent.com/FlamesW/Vellure/main/",
+	["brolyglazer"]   = "https://raw.githubusercontent.com/brolyglazer/meow/refs/heads/main/Vellure-main/WL2/Main.lua",
 }
 
 Loader.Files = {
